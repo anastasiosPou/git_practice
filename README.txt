@@ -1,1 +1,1 @@
-#Hello Git and GitHub
+#Exercise on writing a good, descriptive README file
